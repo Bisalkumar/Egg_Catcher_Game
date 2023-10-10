@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgement
 
-Thanks to the Python community for their continuous support and to OpenAI for guidance on game logic and improvements.
+Thanks to the Python community for their continuous support and to google for guidance on game logic and improvements.
 
